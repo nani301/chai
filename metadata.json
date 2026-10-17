@@ -1,0 +1,6 @@
+{
+  "name": "Barish & Brew — Artisanal Chai & Bakery House",
+  "description": "Interactive 3D monsoon scrollytelling experience for Barish & Brew, featuring a wipeable rain-fogged window, Three.js PBR cutting chai pour, orbiting bakery biscuits, and live ordering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
